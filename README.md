@@ -35,8 +35,8 @@ Bu depo, projenin farklı aşamalarına ait kodları, not defterlerini ve ilgili
     *   Eğitilen model ile yeni tweetlerin siyasi görüşlerinin tahmin edilmesi.
     *   Tahmin sonuçlarına göre genel siyasi eğilimlere dair temel analizler yapılması.
 
-Proje Sahibi
-Süleyman Kürşat Demir
+### Proje Sahibi
 
-GitHub: https://github.com/demiresaa
-LinkedIn: https://www.linkedin.com/in/suleyman-kursat-demir/
+Süleyman Kürşat Demir
+*   GitHub: https://github.com/demiresaa
+*   LinkedIn: https://www.linkedin.com/in/suleyman-kursat-demir/
